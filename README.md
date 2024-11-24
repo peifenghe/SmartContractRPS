@@ -53,9 +53,4 @@ A decentralized Rock-Paper-Scissors simulator.
 
 ---
 
-### Bonus Features
-- After the required number of rounds (`k`-value), the contract automatically allocates properties (e.g., winnings) to the respective players based on the game's outcome.
-
----
-
-Feel free to copy this guide into your project documentation. If you have any questions, please create an issue in this repository. Happy playing! 🎮
+Happy playing! 🎮
