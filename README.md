@@ -2,6 +2,8 @@
 
 A decentralized Rock-Paper-Scissors simulator.
 
+**Authors:** Matseoi Zau & Peifeng He
+
 ---
 
 ## How to Use
